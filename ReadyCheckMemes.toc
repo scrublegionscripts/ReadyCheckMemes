@@ -1,0 +1,11 @@
+## Title: Ready Check Memes
+## Notes: Displays an image during ready checks
+## Interface: 110200
+## Author: Lucker
+## Version: 0.1.1
+## RequiredDeps:
+## X-Wago-ID: as3Dfg57
+## X-Curse-Project-ID: 1289625
+## SavedVariables: ReadyCheckMemesDB
+
+ReadyCheckMemes.lua
