@@ -2,10 +2,10 @@
 ## Notes: Displays an image during ready checks
 ## Interface: 110200
 ## Author: Lucker
-## Version: 0.1.1
+## Version: 0.1.3
 ## RequiredDeps:
-## X-Wago-ID: as3Dfg57
-## X-Curse-Project-ID: 1289625
+## X-Wago-ID: qGYMYzGg
+## X-Curse-Project-ID: 1391579
 ## SavedVariables: ReadyCheckMemesDB
 
 ReadyCheckMemes.lua
