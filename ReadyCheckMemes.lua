@@ -55,7 +55,7 @@ local function OnReadyCheck()
         hideTimer:Cancel()
         hideTimer = nil
     end
-    
+
     local randomNumber = math.random(1, NUM_IMAGES)
     local imagePath = "Interface\\Addons\\ReadyCheckMemes\\media\\" .. randomNumber .. ".tga"
 
@@ -65,7 +65,6 @@ local function OnReadyCheck()
 end
 
 local function OnReadyCheckConfirm()
-    
     -- Start timer to hide frame after delay
     hideTimer = C_Timer.NewTimer(HIDE_DELAY, function()
         frame:Hide()
