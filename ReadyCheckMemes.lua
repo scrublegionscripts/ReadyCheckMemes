@@ -57,7 +57,7 @@ local function OnReadyCheck()
     end
     
     local randomNumber = math.random(1, NUM_IMAGES)
-    local imagePath = string.format("Interface\\Addons\\ReadyCheckMemes\\media\\%d.tga", randomNumber)
+    local imagePath = "Interface\\Addons\\ReadyCheckMemes\\media\\" .. randomNumber .. ".tga"
 
     texture:SetTexture(imagePath)
 
