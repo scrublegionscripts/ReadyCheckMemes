@@ -1,8 +1,8 @@
-## Interface: 110207
+## Interface: 110207, 120000, 120001
 ## Title: Ready Check Memes
 ## Notes: Displays an image during ready checks
 ## Author: Lucker
-## Version: 0.1.5
+## Version: 0.1.8-stable
 ## RequiredDeps:
 ## X-Wago-ID: qGYMYzGg
 ## X-Curse-Project-ID: 1391579
