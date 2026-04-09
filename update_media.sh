@@ -119,4 +119,4 @@ fi
 echo ""
 echo "Updating NUM_IMAGES in ReadyCheckMemes.lua to: $new_max"
 
-sed -i.bak -E "s/^(NUM_IMAGES\s*=\s*)[0-9]+/\1$new_max/" ReadyCheckMemes.lua
+sed -i.bak -E "s/^(local NUM_IMAGES\s*=\s*)[0-9]+/\1$new_max/" ReadyCheckMemes.lua
