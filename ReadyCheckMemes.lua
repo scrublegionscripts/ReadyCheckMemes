@@ -45,7 +45,7 @@ local texture = frame:CreateTexture()
 texture:SetAllPoints(frame)
 frame:Hide()
 
-local NUM_IMAGES = 39
+local NUM_IMAGES = 76
 local HIDE_DELAY = 10 -- seconds to wait before hiding
 local hideTimer = nil
 
